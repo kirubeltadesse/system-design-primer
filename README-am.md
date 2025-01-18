@@ -1,6 +1,6 @@
-_[English](README.md) ∙ [日本語](README-ja.md) ∙ [简体中文](README-zh-Hans.md) ∙ [繁體中文](README-zh-TW.md) | [العَرَبِيَّة‎](https://github.com/donnemartin/system-design-primer/issues/170) ∙ [বাংলা](https://github.com/donnemartin/system-design-primer/issues/220) ∙ [Português do Brasil](https://github.com/donnemartin/system-design-primer/issues/40) ∙ [Deutsch](https://github.com/donnemartin/system-design-primer/issues/186) ∙ [ελληνικά](https://github.com/donnemartin/system-design-primer/issues/130) ∙ [עברית](https://github.com/donnemartin/system-design-primer/issues/272) ∙ [Italiano](https://github.com/donnemartin/system-design-primer/issues/104) ∙ [한국어](https://github.com/donnemartin/system-design-primer/issues/102) ∙ [فارسی](https://github.com/donnemartin/system-design-primer/issues/110) ∙ [Polski](https://github.com/donnemartin/system-design-primer/issues/68) ∙ [русский язык](https://github.com/donnemartin/system-design-primer/issues/87) ∙ [Español](https://github.com/donnemartin/system-design-primer/issues/136) ∙ [ภาษาไทย](https://github.com/donnemartin/system-design-primer/issues/187) ∙ [Türkçe](https://github.com/donnemartin/system-design-primer/issues/39) ∙ [tiếng Việt](https://github.com/donnemartin/system-design-primer/issues/127) ∙ [Français](https://github.com/donnemartin/system-design-primer/issues/250) | [Add Translation](https://github.com/donnemartin/system-design-primer/issues/28)_
+_[English](README.md) . [日本語](README-ja.md) ∙ [简体中文](README-zh-Hans.md) ∙ [繁體中文](README-zh-TW.md) | [العَرَبِيَّة‎](https://github.com/donnemartin/system-design-primer/issues/170) ∙ [বাংলা](https://github.com/donnemartin/system-design-primer/issues/220) ∙ [Português do Brasil](https://github.com/donnemartin/system-design-primer/issues/40) ∙ [Deutsch](https://github.com/donnemartin/system-design-primer/issues/186) ∙ [ελληνικά](https://github.com/donnemartin/system-design-primer/issues/130) ∙ [עברית](https://github.com/donnemartin/system-design-primer/issues/272) ∙ [Italiano](https://github.com/donnemartin/system-design-primer/issues/104) ∙ [한국어](https://github.com/donnemartin/system-design-primer/issues/102) ∙ [فارسی](https://github.com/donnemartin/system-design-primer/issues/110) ∙ [Polski](https://github.com/donnemartin/system-design-primer/issues/68) ∙ [русский язык](https://github.com/donnemartin/system-design-primer/issues/87) ∙ [Español](https://github.com/donnemartin/system-design-primer/issues/136) ∙ [ภาษาไทย](https://github.com/donnemartin/system-design-primer/issues/187) ∙ [Türkçe](https://github.com/donnemartin/system-design-primer/issues/39) ∙ [tiếng Việt](https://github.com/donnemartin/system-design-primer/issues/127) ∙ [Français](https://github.com/donnemartin/system-design-primer/issues/250) | [Add Translation](https://github.com/donnemartin/system-design-primer/issues/28) ∙ [አማርኛ](https://github.com/donnemartin/system-design-primer/issues/820)
 
-**Help [translate](TRANSLATIONS.md) this guide!**
+**የሄን መመሪያ [በመተርጎም ](TRANSLATIONS.md)ይርዱ!**
 
 # የስርዓት ንድፍ ፕሪመር
 
@@ -13,9 +13,9 @@ _[English](README.md) ∙ [日本語](README-ja.md) ∙ [简体中文](README-zh
 
 > መጠነ-ሰፊ ስርዓቶችን እንዴት መንደፍ እንደሚችሉ ይወቁ።
 >
-> ለስርዓቱ ንድፍ ቃለ መጠይቅ ያዘጋጁ.
+> ለስርዓቱ ንድፍ ቃለ መጠይቅ ይዘጋጁ 
 
-### መጠነ ሰፊ ስርዓቶችን እንዴት መንደፍ እንደሚችሉ ይወቁ
+### መጠነ ሰፊ ስርዓቶችን እንዴት መንደፍ እንደሚችሉ የማሩ 
 
 ሊለወጡ የሚችሉ ስርዓቶችን እንዴት መንደፍ እንደሚችሉ መማር የተሻለ መሐንዲስ እንዲሆኑ ይረዳዎታል።
 
@@ -29,16 +29,16 @@ _[English](README.md) ∙ [日本語](README-ja.md) ∙ [简体中文](README-zh
 
 [አስተዋጽዖዎች](#contributing) እንኳን ደህና መጡ!
 
-### ለስርዓቱ ንድፍ ቃለ-መጠይቅ ያዘጋጁ
+### ለስርዓቱ ንድፍ ቃለ-መጠይቅ ይዘጋጁ 
 
-ከኮድ ቃለመጠይቆች በተጨማሪ የስርዓት ዲዛይን በብዙ የቴክኖሎጂ ኩባንያዎች ውስጥ የቴክኒካዊ **ቃለ መጠይቅ ሂደት አስፈላጊ አካል ነው።**
+ከኮድ ቃለመጠይቆች በተጨማሪ የስርዓት ንድፍ በብዙ የቴክኖሎጂ ኩባንያዎች ውስጥ የቴክኒካዊ **ቃለ መጠይቅ ሂደት አስፈላጊ አካል ነው።**
 
-**የጋራ የስርዓት ንድፍ ቃለመጠይቆችን ይለማመዱ** እና ውጤቶችዎን **ከናሙና መፍትሄዎች ጋር ያወዳድሩ** ፡ ውይይቶች፣ ኮድ እና ንድፎች።
+**የተለመዱ  የስርዓት ንድፍ ቃለመጠይቆችን ይለማመዱ** እና ውጤቶችዎን **ከናሙና መፍትሄዎች ጋር ያወዳድሩ** ፡ ውይይቶች፣ ኮድ እና ንድፎች።
 
 ለቃለ መጠይቅ ዝግጅት ተጨማሪ ርዕሶች፡-
 
 - [የጥናት መመሪያ](#study-guide)
-- [የስርዓት ንድፍ ቃለ መጠይቅ ጥያቄ እንዴት እንደሚቀርብ](#how-to-approach-a-system-design-interview-question)
+- [የስርዓት ንድፍ ቃለ መጠይቅ ጥያቄ በምን አግሃብ እንደምን ቀርባቸው](#how-to-approach-a-system-design-interview-question)
 - [የስርዓት ንድፍ ቃለ መጠይቅ ጥያቄዎች፣ **ከመፍትሔ ጋር**](#system-design-interview-questions-with-solutions)
 - [ነገር-ተኮር የንድፍ ቃለ መጠይቅ ጥያቄዎች፣ **ከመፍትሔ ጋር**](#object-oriented-design-interview-questions-with-solutions)
 - [ተጨማሪ የስርዓት ንድፍ ቃለ መጠይቅ ጥያቄዎች](#additional-system-design-interview-questions)
@@ -49,7 +49,7 @@ _[English](README.md) ∙ [日本語](README-ja.md) ∙ [简体中文](README-zh
   <img src="images/zdCAkB3.png">
   <br/>
 </p>
-
+<!-- TODO: remaing work -->
 The provided [Anki flashcard decks](https://apps.ankiweb.net/) use spaced repetition to help you retain key system design concepts.
 
 - [System design deck](https://github.com/donnemartin/system-design-primer/tree/master/resources/flash_cards/System%20Design.apkg)
