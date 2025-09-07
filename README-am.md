@@ -1,8 +1,8 @@
-_[English](README.md) . [日本語](README-ja.md) ∙ [简体中文](README-zh-Hans.md) ∙ [繁體中文](README-zh-TW.md) | [العَرَبِيَّة‎](https://github.com/donnemartin/system-design-primer/issues/170) ∙ [বাংলা](https://github.com/donnemartin/system-design-primer/issues/220) ∙ [Português do Brasil](https://github.com/donnemartin/system-design-primer/issues/40) ∙ [Deutsch](https://github.com/donnemartin/system-design-primer/issues/186) ∙ [ελληνικά](https://github.com/donnemartin/system-design-primer/issues/130) ∙ [עברית](https://github.com/donnemartin/system-design-primer/issues/272) ∙ [Italiano](https://github.com/donnemartin/system-design-primer/issues/104) ∙ [한국어](https://github.com/donnemartin/system-design-primer/issues/102) ∙ [فارسی](https://github.com/donnemartin/system-design-primer/issues/110) ∙ [Polski](https://github.com/donnemartin/system-design-primer/issues/68) ∙ [русский язык](https://github.com/donnemartin/system-design-primer/issues/87) ∙ [Español](https://github.com/donnemartin/system-design-primer/issues/136) ∙ [ภาษาไทย](https://github.com/donnemartin/system-design-primer/issues/187) ∙ [Türkçe](https://github.com/donnemartin/system-design-primer/issues/39) ∙ [tiếng Việt](https://github.com/donnemartin/system-design-primer/issues/127) ∙ [Français](https://github.com/donnemartin/system-design-primer/issues/250) | [Add Translation](https://github.com/donnemartin/system-design-primer/issues/28) ∙ [አማርኛ](https://github.com/donnemartin/system-design-primer/issues/820)
+\_[English](README.md) . [日本語](README-ja.md) ∙ [简体中文](README-zh-Hans.md) ∙ [繁體中文](README-zh-TW.md) | [العَرَبِيَّة‎](https://github.com/donnemartin/system-design-primer/issues/170) ∙ [বাংলা](https://github.com/donnemartin/system-design-primer/issues/220) ∙ [Português do Brasil](https://github.com/donnemartin/system-design-primer/issues/40) ∙ [Deutsch](https://github.com/donnemartin/system-design-primer/issues/186) ∙ [ελληνικά](https://github.com/donnemartin/system-design-primer/issues/130) ∙ [עברית](https://github.com/donnemartin/system-design-primer/issues/272) ∙ [Italiano](https://github.com/donnemartin/system-design-primer/issues/104) ∙ [한국어](https://github.com/donnemartin/system-design-primer/issues/102) ∙ [فارسی](https://github.com/donnemartin/system-design-primer/issues/110) ∙ [Polski](https://github.com/donnemartin/system-design-primer/issues/68) ∙ [русский язык](https://github.com/donnemartin/system-design-primer/issues/87) ∙ [Español](https://github.com/donnemartin/system-design-primer/issues/136) ∙ [ภาษาไทย](https://github.com/donnemartin/system-design-primer/issues/187) ∙ [Türkçe](https://github.com/donnemartin/system-design-primer/issues/39) ∙ [tiếng Việt](https://github.com/donnemartin/system-design-primer/issues/127) ∙ [Français](https://github.com/donnemartin/system-design-primer/issues/250) | [Add Translation](https://github.com/donnemartin/system-design-primer/issues/28) ∙ [አማርኛ](https://github.com/donnemartin/system-design-primer/issues/820)
 
 **የሄን መመሪያ [በመተርጎም ](TRANSLATIONS.md)ይርዱ!**
 
-# የስርዓት ንድፍ ፕሪመር
+# የስርዓት ንድፍ ዐውድ ንባብ
 
 <p align="center">
   <img src="images/jj3A5N8.png">
@@ -13,9 +13,9 @@ _[English](README.md) . [日本語](README-ja.md) ∙ [简体中文](README-zh-H
 
 > መጠነ-ሰፊ ስርዓቶችን እንዴት መንደፍ እንደሚችሉ ይወቁ።
 >
-> ለስርዓቱ ንድፍ ቃለ መጠይቅ ይዘጋጁ 
+> ለስርዓቱ ንድፍ ቃለ መጠይቅ ይዘጋጁ
 
-### መጠነ ሰፊ ስርዓቶችን እንዴት መንደፍ እንደሚችሉ የማሩ 
+### መጠነ ሰፊ ስርዓቶችን እንዴት መንደፍ እንደሚችሉ የማሩ
 
 ሊለወጡ የሚችሉ ስርዓቶችን እንዴት መንደፍ እንደሚችሉ መማር የተሻለ መሐንዲስ እንዲሆኑ ይረዳዎታል።
 
@@ -29,11 +29,11 @@ _[English](README.md) . [日本語](README-ja.md) ∙ [简体中文](README-zh-H
 
 [አስተዋጽዖዎች](#contributing) እንኳን ደህና መጡ!
 
-### ለስርዓቱ ንድፍ ቃለ-መጠይቅ ይዘጋጁ 
+### ለስርዓቱ ንድፍ ቃለ-መጠይቅ ይዘጋጁ
 
 ከኮድ ቃለመጠይቆች በተጨማሪ የስርዓት ንድፍ በብዙ የቴክኖሎጂ ኩባንያዎች ውስጥ የቴክኒካዊ **ቃለ መጠይቅ ሂደት አስፈላጊ አካል ነው።**
 
-**የተለመዱ  የስርዓት ንድፍ ቃለመጠይቆችን ይለማመዱ** እና ውጤቶችዎን **ከናሙና መፍትሄዎች ጋር ያወዳድሩ** ፡ ውይይቶች፣ ኮድ እና ንድፎች።
+**የተለመዱ የስርዓት ንድፍ ቃለመጠይቆችን ይለማመዱ** እና ውጤቶችዎን **ከናሙና መፍትሄዎች ጋር ያወዳድሩ** ፡ ውይይቶች፣ ኮድ እና ንድፎች።
 
 ለቃለ መጠይቅ ዝግጅት ተጨማሪ ርዕሶች፡-
 
